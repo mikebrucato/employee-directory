@@ -1,7 +1,7 @@
 import DataArea from "./DataArea";
 import "../styles/Main.css";
 
-export default function Main() {
+ export default function Main() {
   
     return (
       <>
@@ -10,4 +10,4 @@ export default function Main() {
     );
   }
 
-export default Main
+
